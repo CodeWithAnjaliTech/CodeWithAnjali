@@ -32,9 +32,6 @@
 - 🎨 [My Portfolio](https://my-flow-portfolio.vercel.app/)  
   `React • Tailwind • Responsive UI`
 
-- 🔗 [Alloy Automation Integration](https://github.com/CodeWithAnjaliTech/your-alloy-project)  
-  `API Integration • Automation • Workflow Design`
-
 ---
 
 ### 📊 GitHub Stats
